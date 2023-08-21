@@ -11,8 +11,7 @@ height = (feet
         + inches)
 bmi = round(703 
             * weight 
-            / 
-            height**2, 1)
+            / height**2, 1)
 
 # Display BMI/legend
 print("Your BMI is", bmi)
