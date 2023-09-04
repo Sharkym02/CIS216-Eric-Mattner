@@ -4,4 +4,7 @@ I am taking CIS 216 to keep my fundamentals strong and learn the ins and outs of
 
 Assignment 1: Refreshed on the basics of python programming
 
-Assignment 2: I learned how classes and methods are created and utilized in python, and         compartmentalized the BMI program. These techniques will be commonly used in the future to make code easier to follow for both myself and others who look at it.
+Assignment 2: I learned how classes and methods are created and utilized in python, and compartmentalized the BMI program. These techniques will be commonly used in the future to make code easier to follow for both myself and others who look at it.
+
+Assignment 3: I learned about properties, how to create them, and how I can utilize them to improve my code. I also learned about read-only attribute conventions and how to build robust constructors. In the future, I can use this knowledge to ensure that I don't modify internal variables 
+                that break my programs. I can also use properties to alter my classes and not have to edit my programs that use them.
