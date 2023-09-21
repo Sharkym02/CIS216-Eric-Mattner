@@ -10,3 +10,5 @@ Assignment 3: I learned about properties, how to create them, and how I can util
                 that break my programs. I can also use properties to alter my classes and not have to edit my programs that use them.
 
 Assignment 4: I learned effective techniques about how to validate my values, and ensure that methods receive proper types and ranges for its arguments. I will use these techniques to make my future programs resilient to bugs and user error.
+
+Assignment 5: I created units test for each function in my BMI class, and learned effective ways of using unit tests to debug my code. 
