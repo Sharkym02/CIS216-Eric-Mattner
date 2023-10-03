@@ -12,4 +12,4 @@ Assignment 4: I learned effective techniques about how to validate my values, an
 
 Assignment 5: I created units test for each function in my BMI class, and learned effective ways of using unit tests to debug my code. 
 
-Assignment 6: I learned how to create subclasses, and how to incorporate their relations and their inheritance of the traits of their parent classes to create effective programs.
+Assignment 6: I learned how to create subclasses, and how to incorporate their relations and their inheritance of the traits of their parent classes to create effective programs. Using subclasses well and ensuring that they can properly utilize all properties of the parent class will be essential to nearly every program I write in the future
