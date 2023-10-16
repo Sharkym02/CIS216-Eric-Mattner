@@ -15,3 +15,5 @@ Assignment 5: I created units test for each function in my BMI class, and learne
 Assignment 6: I learned how to create subclasses, and how to incorporate their relations and their inheritance of the traits of their parent classes to create effective programs. Using subclasses well and ensuring that they can properly utilize all properties of the parent class will be essential to nearly every program I write in the future
 
 Assignment 7: I learned how to effectively use polymorphism to make my subclasses work better alongside each other, making them more effective and easier to read. I will use this in the future to make sure my subclasses do their specialized tasks successfully.
+
+Assignment 8: I created GUI's for a simple hello world program, and a simple text editor that allows the user to type and contains two scollbars, one vertical and one horizontal. This will be very useful in the future, since most programs with user input have a GUI rather than directly utilizing the command line. 
