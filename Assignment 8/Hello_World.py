@@ -1,22 +1,16 @@
 # This program creates a window that contains the text "Hello world!"
 
-import tkinter
+import tkinter as tk
+from tkinter import ttk
 
-class Root(tkinter.Tk):
+root = tk.Tk()
+root.title("Hello World")
+root.geometry("%dx%d+0+0" % root.maxsize())
+root.state('zoomed')
 
-    def __init__(self, *args, **kwargs):
-        tkinter.Tk.__init__(self, *args, **kwargs)
+text = tk.Text(root)
+text.pack()
 
-        self.title("Hello World")
-        self.geometry("%dx%d+0+0" % self.maxsize())
-        self.state('zoomed')
+text.insert('1.0', "Hello World")
 
-        label = tkinter.Label(
-            text="Hello world!",
-            width=320,
-            height=240)
-        label.pack()
-
-if __name__ == "__main__":
-    root = Root()
-    root.mainloop()
+root.mainloop()
