@@ -17,3 +17,5 @@ Assignment 6: I learned how to create subclasses, and how to incorporate their r
 Assignment 7: I learned how to effectively use polymorphism to make my subclasses work better alongside each other, making them more effective and easier to read. I will use this in the future to make sure my subclasses do their specialized tasks successfully.
 
 Assignment 8: I created GUI's for a simple hello world program, and a simple text editor that allows the user to type and contains two scollbars, one vertical and one horizontal. This will be very useful in the future, since most programs with user input have a GUI rather than directly utilizing the command line. 
+
+Assignment 9: I edited the text editor such that it contains a file menu and edit menu, which allows the user to open a new text or close the current one, and allows the user to cut, copy, and paste the text in the editor. I will use the tools I learned in this assignment in the future in most, if not all GUI's I develop in the future, since nearly every GUI involves menus that the user frequently interacts with. 
